@@ -1,3 +1,13 @@
+> **Play it with Asciiverse.** With [av](https://asciiverse.sh), the Asciiverse
+> client:
+>
+> ```
+> av install tetro-tui
+> av play tetro-tui
+> ```
+>
+> The original README follows.
+
 !["Tetro TUI logo"](https://github.com/Strophox/tetro-tui/blob/b66590cb461d34c95e988ef41b6d8b7d7783f37b/demo_assets/tetro_logo_glow.png?raw=true)
 
 
